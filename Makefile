@@ -1,4 +1,4 @@
-all
+all:
 	gcc -o words words.c
-clean
+clean:
 	rm words
